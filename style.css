@@ -1,0 +1,17 @@
+.top-banner{
+    padding: 20px 20px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    padding-top: 5%;
+}
+.half-width img{
+    width: 80%;
+    
+}
+.link-button{
+    background-color: deeppink;
+}
