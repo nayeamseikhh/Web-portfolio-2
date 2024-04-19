@@ -1,17 +1,37 @@
 .top-banner{
     padding: 20px 20px;
 }
+.top-banner-1st-text{
+    padding-top: 110px;
+    font-size: 30px;
+}
+.deeppink{
+    color: deeppink;
+    font-size: 40px;
+   
+    
+}
 .half-width{
     width: 40%;
     float: left;
     margin-left: 5%;
     padding-left: 2%;
     padding-top: 5%;
+    padding-bottom: 10px;
+}
+.top-banner-p{
+    padding-bottom: 20px;
 }
 .half-width img{
     width: 80%;
     
 }
 .link-button{
-    background-color: deeppink;
+  text-decoration: none;
+  background-image: linear-gradient(deeppink,rgb(255, 75, 171));
+  padding: 10px 20px;
+  color: white;
+  border-radius: 5px;
+  font-weight: 600;
+
 }
